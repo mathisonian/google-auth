@@ -13,13 +13,10 @@ Command line tool to retrieve oauth tokens for programmatic access to google ser
 ### Obtain Google Client ID & Secret
 
 * Go to https://console.developers.google.com
-* If there is not a project there, create a new one 
-    * ![project](http://i.gif.fm/lAiwP.png)
+* If there is not a project there, create a new one  ![project](http://i.gif.fm/lAiwP.png)
 * Click on the projects name
-* Navigate to API & Auth / Credentals
-    * ![credentials](http://i.gif.fm/M2AMi.png)
-* Create new client with these options
-    * ![client](http://i.gif.fm/KiiC9.png)
+* Navigate to API & Auth / Credentals ![credentials](http://i.gif.fm/M2AMi.png)
+* Create new client with these options ![client](http://i.gif.fm/KiiC9.png)
 * Record the client secret and id
 * Go to https://console.developers.google.com/project/86071142858/apiui/consent
     * make sure the `email` and `product name` fields are filled in
