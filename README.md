@@ -3,6 +3,8 @@ google-auth
 
 Command line tool to retrieve oauth tokens for programmatic access to google services.
 
+> *Because only google would make something so unfriendly to users it requires a special tool to retreive API tokens*
+
 
 ## Installation
 
